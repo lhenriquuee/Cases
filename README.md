@@ -3,3 +3,4 @@ Confira nos links abaixo um pouco sobre meu trabalho com algumas documentações
 
 ## | Como cadastrar uma Chave Pix
 Tutorial de como a pessoa usuária pode configurar uma Chave Pix através do aplicativo do banco em seu celular. 
+* [Clique aqui para acessar](https://github.com/lhenriquuee/Como-cadastrar-uma-chave-PIX)
