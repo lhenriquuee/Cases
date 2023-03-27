@@ -8,3 +8,7 @@ Tutorial de como a pessoa usuária pode configurar uma Chave Pix através do apl
 ## | API para alteração de status dos Atendimentos
 Documentação técnica para regras e formas de utilizar uma API para alteração de status dos protocolos de atendimento. 
 * [Clique aqui para acessar a documentação](https://github.com/lhenriquuee/Alterar-o-status-de-atendimento-via-API)
+
+## | Escolhendo uma solução
+Artigo dedicado a um analista de TI que precisa escolher uma melhor solução para desenvolver sistemas de matrícula escolar.
+* [Clique aqui para acessar a documentação](https://github.com/lhenriquuee/Escolhendo-uma-solucao)
